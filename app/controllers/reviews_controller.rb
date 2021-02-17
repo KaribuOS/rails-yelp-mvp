@@ -1,3 +1,8 @@
 class ReviewsController < ApplicationController
-  belongs_to :restaurant
+  def new
+
+  end
+  def create
+
+  end
 end
